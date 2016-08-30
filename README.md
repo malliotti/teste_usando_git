@@ -1,4 +1,4 @@
-# teste_usando_git
+# Teste usando o GIT
 teste_usando_git
 
 
