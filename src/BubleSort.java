@@ -6,6 +6,7 @@ public class BubleSort {
 		int aux = 0;
 		int i = 0;
 		
+		//Impressão do vetor desordenado
 		System.out.println("Vetor desordenado: ");
 		for(i = 0; i<5; i++){
 			System.out.println(" "+vet[i]);
@@ -21,6 +22,7 @@ public class BubleSort {
 				}
 			}
 		}
+		//Impressão do vetor Organizado.
 		System.out.println("Vetor organizado:");
 		for(i = 0; i<5; i++){
 			System.out.println(" "+vet[i]);
